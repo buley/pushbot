@@ -1,1 +1,1 @@
-web: bin/hubot -a gtalk -n bubba
+web: bin/hubot -a xmpp -n bubba
